@@ -1,1 +1,3 @@
 # openwrt-rule
+这是根据YouTube的up主七尺宇的视频自定义的openclash的配置文件
+除了最上面的三条规则以外使用的都是GitHub上大佬的规则
